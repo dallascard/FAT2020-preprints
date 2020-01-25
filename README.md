@@ -2,6 +2,8 @@
 
 Links to preprints of papers to be presented at [ACM FAT* 2020](https://fatconference.org/2020/index.html).
 
+## Tuesday, January 28th, 2020
+
 # Session 1: Accountability
 | Paper | Authors |
 |-------|---------|

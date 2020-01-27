@@ -45,7 +45,7 @@ Links to preprints of papers to be presented at [ACM FAT* 2020](https://fatconfe
 # Session 5: Ethics and Policy
 | Paper | Authors |
 |-------|---------|
-| From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy | E. Bietti |
+| [From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513182) | E. Bietti |
 | [Onward for the freedom of others: Marching beyond the AI Ethics](https://osf.io/preprints/socarxiv/3xzaf/) | P. Terzis |
 | Whose Side are Ethics Codes On? Power, Responsibility and the Social Good | A. Washington, R. Kuo |
 | Algorithmic Targeting of Social Policies: Fairness, Accuracy, and Distributed Governance | A. Noriega-Campero, B. Bulle-Bueno, L. Cantu, M. Bakker, L. Tejerina, A. Pentland |
